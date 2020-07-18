@@ -1,2 +1,2 @@
 # image-gallery
-A demo from "DOM Scripting"
+A Demo from 《DOM Scripting》
